@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820141124388",
+    "project_id": "crypto-fortress",
+    "storage_bucket": "crypto-fortress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820141124388:android:d403c0456ad4d3776b21b1",
+        "android_client_info": {
+          "package_name": "com.example.cryptofortress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820141124388-60674h8m0hc0ie12gr69ot4ru0jsu484.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptofortress",
+            "certificate_hash": "726c738aacc14331a5b2cf54f4faed47120164c4"
+          }
+        },
+        {
+          "client_id": "820141124388-lk0nc11eet9l34o143i7vi4knv29hb52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD7itzE06m9M1_GtquSICWxp9Xv34GBtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820141124388-lk0nc11eet9l34o143i7vi4knv29hb52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
