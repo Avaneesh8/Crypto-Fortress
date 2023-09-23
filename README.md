@@ -1,4 +1,4 @@
-# cryptofortress
+# Crypto-Fortress
 
 ## Table of Contents
 
