@@ -1,4 +1,4 @@
-# cryptofortress 
+# cryptofortress  
 
 A new Flutter project for crypto wallet application 
 
