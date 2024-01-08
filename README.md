@@ -1,6 +1,6 @@
 # cryptofortress
 
-A new Flutter project for crypto wallet application  
+A new Flutter project for crypto wallet application   
 
 ## Getting Started 
 
